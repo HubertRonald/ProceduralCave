@@ -1,5 +1,5 @@
 # ProceduralCave
-Procedural Cave Lua is an script for Gideros Mobile
+Procedural Cave Lua is a script for Gideros Mobile
 
 
 ## Main Features
